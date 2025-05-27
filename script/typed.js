@@ -1,7 +1,7 @@
 var options = {
-    strings: ["High School Graduate", "Learner🔍"],
+    strings: ["High School Grad", "Learner"],
     typeSpeed: 100,
-    backSpeed: 100,
+    backSpeed: 10,
     backDelay: 1000,
     loop: true
   };
