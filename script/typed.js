@@ -1,5 +1,5 @@
 var options = {
-    strings: ["High School Grad", "Learner"],
+    strings: ["High School Graduate🎓", "Learner💡"],
     typeSpeed: 100,
     backSpeed: 10,
     backDelay: 1000,
